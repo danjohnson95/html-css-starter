@@ -68,3 +68,6 @@ There are two files you'll be working with:
 
     This is your CSS file where you define what your website looks like.
 
+## Stopping the server
+
+When you're finished, hit <kbd>Ctrl</kbd> + <kbd>C</kbd> in the terminal to stop the server.
