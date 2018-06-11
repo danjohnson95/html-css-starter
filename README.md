@@ -16,7 +16,7 @@ This starter kit is designed to help you learn the basics of HTML and CSS, witho
 
 ## Installation
 
-Download this starter pack and unzip it on your desktop.
+Download this starter pack and unzip it on your desktop. You can download it from [here](https://github.com/danjohnson95/html-css-starter/archive/master.zip)
 
 Next, you'll need to access the terminal to start up your server.
 
