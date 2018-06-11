@@ -1,0 +1,22 @@
+{
+  "name": "html-css-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danjohnson95/html-css-starter.git"
+  },
+  "author": "Dan Johnson <dan@danj.eu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danjohnson95/html-css-starter/issues"
+  },
+  "homepage": "https://github.com/danjohnson95/html-css-starter#readme",
+  "devDependencies": {
+    "webpack-dev-server": "^3.1.4"
+  }
+}
